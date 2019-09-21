@@ -1,3 +1,5 @@
+//Custom Ajax Library built using callbacks
+
 function easyHttp() {
   this.http = new XMLHttpRequest();
 }
